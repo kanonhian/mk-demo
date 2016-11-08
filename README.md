@@ -13,5 +13,8 @@ controls:
            punch      - G
            
 The drawn process takes place into the character.js, which calculates the position of the frame and invokes the paint() method of the sprite.js file
+
+
+Scorpio.js contains the inicialization of player1 and Scorpio2.js of player2
            
   
